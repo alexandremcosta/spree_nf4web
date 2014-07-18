@@ -1,7 +1,9 @@
 SpreeNf4web
 ===========
 
-Introduction goes here.
+Nf4web is a brazilian service to issue invoices, according to the
+brazilian law, and Serasa regulations. This gem provides the required
+API to support the integration.
 
 Installation
 ------------
