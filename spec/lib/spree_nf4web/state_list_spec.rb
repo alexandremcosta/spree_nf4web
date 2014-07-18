@@ -12,7 +12,7 @@ module Nf4web
     end
     describe '#with_index' do
       it 'should return a hash of states and indexes' do
-        expectation = {:cart=>0, :address=>1, :delivery=>2, :payment=>3, :confirm=>4, :complete=>5, :canceled=>6, :awaiting_return=>7, :returned=>8, :resumed=>9}
+        expectation = [{state: :cart, id: 0}, {state: :address, id: 1}, {state: :delivery, id: 2}, {state: :payment, id: 3}, {state: :confirm, id: 4}, {state: :complete, id: 5}, {state: :canceled, id: 6}, {state: :awaiting_return, id: 7}, {state: :returned, id: 8}, {state: :resumed, id: 9}]
         expect(
           Nf4web::StateList.new(Spree::Order).with_index
         ).to eq(expectation)

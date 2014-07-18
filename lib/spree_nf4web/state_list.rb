@@ -6,7 +6,7 @@ module Nf4web
     end
 
     def with_index
-      hash
+      hash.map{|state, id| {state: state, id: id}}
     end
 
     private
