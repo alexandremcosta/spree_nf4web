@@ -39,4 +39,16 @@ Simply add this require statement to your spec_helper:
 require 'spree_nf4web/factories'
 ```
 
+Documentation
+-------------
+Nf4web::StateList
+  #initialize
+    when argument doesnt implement state_machine
+      should throw an error
+  #with_index
+    should return a hash of states and indexes
+
+Copyright
+---------
+
 Copyright (c) 2014 [name of extension creator], released under the New BSD License
