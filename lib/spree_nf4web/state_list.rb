@@ -1,32 +1,28 @@
 module Nf4web
   class StateList
-    def initialize(klass)
-      raise argument_error unless klass.respond_to?(:state_machine)
-      @klass = klass
-    end
-
     def with_index
       hash.map{|state, id| {state: state, id: id}}
     end
 
+    def state_to_index(state)
+      hash[state.to_sym]
+    end
+
+    def index_to_state(index)
+      hash.key(index.to_i)
+    end
+
     private
-
-    attr_reader :klass
-
     def hash
       Hash[array.map.with_index { |value, index| [value, index] }]
     end
 
     def array
-      states.map(&:name)
+      states.map{ |name| name.to_sym }
     end
 
     def states
-      klass.state_machine.states
-    end
-
-    def argument_error
-      ArgumentError.new('Argument must implement a state machine')
+      %w{paid balance_due credit_owed failed}
     end
   end
 end
