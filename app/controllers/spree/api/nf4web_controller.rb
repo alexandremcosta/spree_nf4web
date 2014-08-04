@@ -11,6 +11,11 @@ module Spree
         respond_with(@orders)
       end
 
+      def api_order
+        @order = Spree::Order.find_by_number("R#{permitted_params_nfe[:para1]}")
+        @order = OrderPresenter.new(@order)
+        respond_with(@order)
+      end
       private
       def requires_authentication?
         true
@@ -22,7 +27,7 @@ module Spree
           order_number: permitted_params_nfecommerce[:para3]
         }
       end
-      def permitted_params_nfecommerce
+      def permitted_params_nfe
         params.permit(:para1, :para2, :para3, :para4, :token)
       end
       def filter_by_status(orders)
