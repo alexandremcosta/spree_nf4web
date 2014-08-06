@@ -3,7 +3,7 @@ class CreateBrazilianCities < ActiveRecord::Migration
     create_table :brazilian_cities do |t|
       t.string :name
       t.integer :ibge_code
-      t.references :spree_state, index: true
+      t.references :state, index: true
 
       t.timestamps
     end

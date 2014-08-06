@@ -1,6 +1,7 @@
 module SpreeNf4web
   module Generators
     class InstallGenerator < Rails::Generators::Base
+      source_root File.expand_path("../templates", __FILE__)
 
       class_option :auto_run_migrations, :type => :boolean, :default => false
 
@@ -15,7 +16,7 @@ module SpreeNf4web
       end
 
       def add_migrations
-        #copy_file "brazilian_cities.csv", "db/csv/brazilian_cities.csv"
+        copy_file "brazilian_cities.csv", "db/csv/brazilian_cities.csv"
         run 'bundle exec rake railties:install:migrations FROM=spree_nf4web'
       end
 
