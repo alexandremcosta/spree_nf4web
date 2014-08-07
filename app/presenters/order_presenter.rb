@@ -12,7 +12,11 @@ class OrderPresenter < SimpleDelegator
   end
 
   def ibge_code
-    BrazilianCity.find_by_name(city).ibge_code.to_s
+    if city = BrazilianCity.find_by_name(city)
+      return city.ibge_code.to_s
+    else
+      return ''
+    end
   end
 
   def nf4web_line_items
