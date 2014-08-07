@@ -17,6 +17,12 @@ module SpreeNf4web
       end
     end
 
+    initializer 'add_cpf_to_permitted_attributes' do |app|
+      %w{cpf neighborhood}.each do |attr|
+        Spree::PermittedAttributes.address_attributes << attr
+      end
+    end
+
     config.to_prepare &method(:activate).to_proc
   end
 end

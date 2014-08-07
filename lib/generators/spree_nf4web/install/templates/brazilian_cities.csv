@@ -5,24 +5,24 @@ Rondônia, Cerejeiras,1100056, RO
 Rondônia, Colorado do Oeste,1100064, RO
 Rondônia, Corumbiara,1100072, RO
 Rondônia, Costa Marques,1100080, RO
-Rondônia, Espigão D Oeste,1100098, RO
+Rondônia, Espigão d'Oeste,1100098, RO
 Rondônia, Guajará-Mirim,1100106, RO
 Rondônia, Jaru,1100114, RO
 Rondônia, Ji-Paraná,1100122, RO
-Rondônia, Machadinho D Oeste,1100130, RO
-Rondônia, Nova Brasilândia D Oeste,1100148, RO
+Rondônia, Machadinho d'Oeste,1100130, RO
+Rondônia, Nova Brasilândia d'Oeste,1100148, RO
 Rondônia, Ouro Preto do Oeste,1100155, RO
 Rondônia, Pimenta Bueno,1100189, RO
 Rondônia, Porto Velho,1100205, RO
 Rondônia, Presidente Médici,1100254, RO
 Rondônia, Rio Crespo,1100262, RO
 Rondônia, Rolim de Moura,1100288, RO
-Rondônia, Santa Luzia D Oeste,1100296, RO
+Rondônia, Santa Luzia d'Oeste,1100296, RO
 Rondônia, Vilhena,1100304, RO
 Rondônia, São Miguel do Guaporé,1100320, RO
 Rondônia, Nova Mamoré,1100338, RO
-Rondônia, Alvorada D Oeste,1100346, RO
-Rondônia, Alto Alegre dos Parecis,1100379, RO
+Rondônia, Alvorada d'Oeste,1100346, RO
+Rondônia, Alto Alegre do Parecis,1100379, RO
 Rondônia, Alto Paraíso,1100403, RO
 Rondônia, Buritis,1100452, RO
 Rondônia, Novo Horizonte do Oeste,1100502, RO
@@ -41,7 +41,7 @@ Rondônia, Nova União,1101435, RO
 Rondônia, Parecis,1101450, RO
 Rondônia, Pimenteiras do Oeste,1101468, RO
 Rondônia, Primavera de Rondônia,1101476, RO
-Rondônia, São Felipe D Oeste,1101484, RO
+Rondônia, São Felipe d'Oeste,1101484, RO
 Rondônia, São Francisco do Guaporé,1101492, RO
 Rondônia, Seringueiras,1101500, RO
 Rondônia, Teixeirópolis,1101559, RO
@@ -237,7 +237,7 @@ Pará, Pacajá,1505486, PA
 Pará, Palestina do Pará,1505494, PA
 Pará, Paragominas,1505502, PA
 Pará, Parauapebas,1505536, PA
-Pará, Pau D Arco,1505551, PA
+Pará, Pau d'Arco,1505551, PA
 Pará, Peixe-Boi,1505601, PA
 Pará, Piçarra,1505635, PA
 Pará, Placas,1505650, PA
@@ -399,7 +399,7 @@ Tocantins, Palmeirante,1715705, TO
 Tocantins, Palmeirópolis,1715754, TO
 Tocantins, Paraíso do Tocantins,1716109, TO
 Tocantins, Paranã,1716208, TO
-Tocantins, Pau D Arco,1716307, TO
+Tocantins, Pau D'Arco,1716307, TO
 Tocantins, Pedro Afonso,1716505, TO
 Tocantins, Peixe,1716604, TO
 Tocantins, Pequizeiro,1716653, TO
@@ -432,7 +432,7 @@ Tocantins, São Félix do Tocantins,1720150, TO
 Tocantins, São Miguel do Tocantins,1720200, TO
 Tocantins, São Salvador do Tocantins,1720259, TO
 Tocantins, São Sebastião do Tocantins,1720309, TO
-Tocantins, São Valério,1720499, TO
+Tocantins, São Valério da Natividade,1720499, TO
 Tocantins, Silvanópolis,1720655, TO
 Tocantins, Sítio Novo do Tocantins,1720804, TO
 Tocantins, Sucupira,1720853, TO
@@ -573,7 +573,7 @@ Maranhão, Nina Rodrigues,2107209, MA
 Maranhão, Nova Colinas,2107258, MA
 Maranhão, Nova Iorque,2107308, MA
 Maranhão, Nova Olinda do Maranhão,2107357, MA
-Maranhão, Olho d Água das Cunhãs,2107407, MA
+Maranhão, Olho d'Água das Cunhãs,2107407, MA
 Maranhão, Olinda Nova do Maranhão,2107456, MA
 Maranhão, Paço do Lumiar,2107506, MA
 Maranhão, Palmeirândia,2107605, MA
@@ -588,7 +588,7 @@ Maranhão, Pedro do Rosário,2108256, MA
 Maranhão, Penalva,2108306, MA
 Maranhão, Peri Mirim,2108405, MA
 Maranhão, Peritoró,2108454, MA
-Maranhão, Pindaré-Mirim,2108504, MA
+Maranhão, Pindaré Mirim,2108504, MA
 Maranhão, Pinheiro,2108603, MA
 Maranhão, Pio XII,2108702, MA
 Maranhão, Pirapemas,2108801, MA
@@ -681,7 +681,7 @@ Piauí, Arraial,2201002, PI
 Piauí, Assunção do Piauí,2201051, PI
 Piauí, Avelino Lopes,2201101, PI
 Piauí, Baixa Grande do Ribeiro,2201150, PI
-Piauí, Barra D Alcântara,2201176, PI
+Piauí, Barra d'Alcântara,2201176, PI
 Piauí, Barras,2201200, PI
 Piauí, Barreiras do Piauí,2201309, PI
 Piauí, Barro Duro,2201408, PI
@@ -805,7 +805,7 @@ Piauí, Nossa Senhora dos Remédios,2206803, PI
 Piauí, Novo Oriente do Piauí,2206902, PI
 Piauí, Novo Santo Antônio,2206951, PI
 Piauí, Oeiras,2207009, PI
-Piauí, Olho D Água do Piauí,2207108, PI
+Piauí, Olho d'Água do Piauí,2207108, PI
 Piauí, Padre Marcos,2207207, PI
 Piauí, Paes Landim,2207306, PI
 Piauí, Pajeú do Piauí,2207355, PI
@@ -816,7 +816,7 @@ Piauí, Parnaguá,2207603, PI
 Piauí, Parnaíba,2207702, PI
 Piauí, Passagem Franca do Piauí,2207751, PI
 Piauí, Patos do Piauí,2207777, PI
-Piauí, Pau D Arco do Piauí,2207793, PI
+Piauí, Pau d'Arco do Piauí,2207793, PI
 Piauí, Paulistana,2207801, PI
 Piauí, Pavussu,2207850, PI
 Piauí, Pedro II,2207900, PI
@@ -888,7 +888,7 @@ Piauí, Vera Mendes,2211506, PI
 Piauí, Vila Nova do Piauí,2211605, PI
 Piauí, Wall Ferraz,2211704, PI
 Ceará, Abaiara,2300101, CE
-Ceará, Acarape,2300150, CE
+Ceará, Acarapé,2300150, CE
 Ceará, Acaraú,2300200, CE
 Ceará, Acopiara,2300309, CE
 Ceará, Aiuaba,2300408, CE
@@ -1139,7 +1139,7 @@ Rio Grande do Norte, João Dias,2405900, RN
 Rio Grande do Norte, José da Penha,2406007, RN
 Rio Grande do Norte, Jucurutu,2406106, RN
 Rio Grande do Norte, Jundiá,2406155, RN
-Rio Grande do Norte, Lagoa d Anta,2406205, RN
+Rio Grande do Norte, Lagoa d'Anta,2406205, RN
 Rio Grande do Norte, Lagoa de Pedras,2406304, RN
 Rio Grande do Norte, Lagoa de Velhos,2406403, RN
 Rio Grande do Norte, Lagoa Nova,2406502, RN
@@ -1162,7 +1162,7 @@ Rio Grande do Norte, Mossoró,2408003, RN
 Rio Grande do Norte, Natal,2408102, RN
 Rio Grande do Norte, Nísia Floresta,2408201, RN
 Rio Grande do Norte, Nova Cruz,2408300, RN
-Rio Grande do Norte, Olho-d Água do Borges,2408409, RN
+Rio Grande do Norte, Olho-d'Água do Borges,2408409, RN
 Rio Grande do Norte, Ouro Branco,2408508, RN
 Rio Grande do Norte, Paraná,2408607, RN
 Rio Grande do Norte, Paraú,2408706, RN
@@ -1346,7 +1346,7 @@ Paraíba, Lastro,2508406, PB
 Paraíba, Livramento,2508505, PB
 Paraíba, Logradouro,2508554, PB
 Paraíba, Lucena,2508604, PB
-Paraíba, Mãe d Água,2508703, PB
+Paraíba, Mãe d'Água,2508703, PB
 Paraíba, Malta,2508802, PB
 Paraíba, Mamanguape,2508901, PB
 Paraíba, Manaíra,2509008, PB
@@ -1368,7 +1368,7 @@ Paraíba, Nazarezinho,2510006, PB
 Paraíba, Nova Floresta,2510105, PB
 Paraíba, Nova Olinda,2510204, PB
 Paraíba, Nova Palmeira,2510303, PB
-Paraíba, Olho d Água,2510402, PB
+Paraíba, Olho-d'Água,2510402, PB
 Paraíba, Olivedos,2510501, PB
 Paraíba, Ouro Velho,2510600, PB
 Paraíba, Parari,2510659, PB
@@ -1418,7 +1418,7 @@ Paraíba, Santo André,2513851, PB
 Paraíba, São Bento,2513901, PB
 Paraíba, São Bentinho,2513927, PB
 Paraíba, São Domingos do Cariri,2513943, PB
-Paraíba, São Domingos,2513968, PB
+Paraíba, São Domingos de Pombal,2513968, PB
 Paraíba, São Francisco,2513984, PB
 Paraíba, São João do Cariri,2514008, PB
 Paraíba, São João do Tigre,2514107, PB
@@ -1478,7 +1478,7 @@ Pernambuco, Arcoverde,2601201, PE
 Pernambuco, Barra de Guabiraba,2601300, PE
 Pernambuco, Barreiros,2601409, PE
 Pernambuco, Belém de Maria,2601508, PE
-Pernambuco, Belém do São Francisco,2601607, PE
+Pernambuco, Belém de São Francisco,2601607, PE
 Pernambuco, Belo Jardim,2601706, PE
 Pernambuco, Betânia,2601805, PE
 Pernambuco, Bezerros,2601904, PE
@@ -1543,7 +1543,7 @@ Pernambuco, Ipojuca,2607208, PE
 Pernambuco, Ipubi,2607307, PE
 Pernambuco, Itacuruba,2607406, PE
 Pernambuco, Itaíba,2607505, PE
-Pernambuco, Ilha de Itamaracá,2607604, PE
+Pernambuco, Itamaracá,2607604, PE
 Pernambuco, Itambé,2607653, PE
 Pernambuco, Itapetim,2607703, PE
 Pernambuco, Itapissuma,2607752, PE
@@ -1558,7 +1558,7 @@ Pernambuco, Jucati,2608255, PE
 Pernambuco, Jupi,2608305, PE
 Pernambuco, Jurema,2608404, PE
 Pernambuco, Lagoa do Carro,2608453, PE
-Pernambuco, LAGOA DE ITAENGA,2608503, PE
+Pernambuco, Lagoa do Itaenga,2608503, PE
 Pernambuco, Lagoa do Ouro,2608602, PE
 Pernambuco, Lagoa dos Gatos,2608701, PE
 Pernambuco, Lagoa Grande,2608750, PE
@@ -1706,9 +1706,9 @@ Alagoas, Minador do Negrão,2705309, AL
 Alagoas, Monteirópolis,2705408, AL
 Alagoas, Murici,2705507, AL
 Alagoas, Novo Lino,2705606, AL
-Alagoas, Olho d Água das Flores,2705705, AL
-Alagoas, Olho d Água do Casado,2705804, AL
-Alagoas, Olho d Água Grande,2705903, AL
+Alagoas, Olho d'Água das Flores,2705705, AL
+Alagoas, Olho d'Água do Casado,2705804, AL
+Alagoas, Olho d'Água Grande,2705903, AL
 Alagoas, Olivença,2706000, AL
 Alagoas, Ouro Branco,2706109, AL
 Alagoas, Palestina,2706208, AL
@@ -1742,7 +1742,7 @@ Alagoas, São Miguel dos Milagres,2708709, AL
 Alagoas, São Sebastião,2708808, AL
 Alagoas, Satuba,2708907, AL
 Alagoas, Senador Rui Palmeira,2708956, AL
-Alagoas, Tanque d Arca,2709004, AL
+Alagoas, Tanque d'Arca,2709004, AL
 Alagoas, Taquarana,2709103, AL
 Alagoas, Teotônio Vilela,2709152, AL
 Alagoas, Traipu,2709202, AL
@@ -1777,7 +1777,7 @@ Sergipe, Indiaroba,2802809, SE
 Sergipe, Itabaiana,2802908, SE
 Sergipe, Itabaianinha,2803005, SE
 Sergipe, Itabi,2803104, SE
-Sergipe, Itaporanga d Ajuda,2803203, SE
+Sergipe, Itaporanga d'Ajuda,2803203, SE
 Sergipe, Japaratuba,2803302, SE
 Sergipe, Japoatã,2803401, SE
 Sergipe, Lagarto,2803500, SE
@@ -1942,7 +1942,7 @@ Bahia, Cristópolis,2909703, BA
 Bahia, Cruz das Almas,2909802, BA
 Bahia, Curaçá,2909901, BA
 Bahia, Dário Meira,2910008, BA
-Bahia, Dias d Ávila,2910057, BA
+Bahia, Dias d'Ávila,2910057, BA
 Bahia, Dom Basílio,2910107, BA
 Bahia, Dom Macedo Costa,2910206, BA
 Bahia, Elísio Medrado,2910305, BA
@@ -2460,7 +2460,7 @@ Minas Gerais, Córrego Danta,3119807, MG
 Minas Gerais, Córrego do Bom Jesus,3119906, MG
 Minas Gerais, Córrego Fundo,3119955, MG
 Minas Gerais, Córrego Novo,3120003, MG
-Minas Gerais, Couto de Magalhães de Minas,3120102, MG
+Minas Gerais, Couto de Magalhães,3120102, MG
 Minas Gerais, Crisólita,3120151, MG
 Minas Gerais, Cristais,3120201, MG
 Minas Gerais, Cristália,3120300, MG
@@ -2495,7 +2495,7 @@ Minas Gerais, Dom Cavati,3122504, MG
 Minas Gerais, Dom Joaquim,3122603, MG
 Minas Gerais, Dom Silvério,3122702, MG
 Minas Gerais, Dom Viçoso,3122801, MG
-Minas Gerais, Dona Eusébia,3122900, MG
+Minas Gerais, Dona Euzébia,3122900, MG
 Minas Gerais, Dores de Campos,3123007, MG
 Minas Gerais, Dores de Guanhães,3123106, MG
 Minas Gerais, Dores do Indaiá,3123205, MG
@@ -2601,7 +2601,7 @@ Minas Gerais, Ipiaçu,3131406, MG
 Minas Gerais, Ipuiúna,3131505, MG
 Minas Gerais, Iraí de Minas,3131604, MG
 Minas Gerais, Itabira,3131703, MG
-Minas Gerais, Itabirinha,3131802, MG
+Minas Gerais, Itabirinha de Mantena,3131802, MG
 Minas Gerais, Itabirito,3131901, MG
 Minas Gerais, Itacambira,3132008, MG
 Minas Gerais, Itacarambi,3132107, MG
@@ -2769,7 +2769,7 @@ Minas Gerais, Novo Cruzeiro,3145307, MG
 Minas Gerais, Novo Oriente de Minas,3145356, MG
 Minas Gerais, Novorizonte,3145372, MG
 Minas Gerais, Olaria,3145406, MG
-Minas Gerais, Olhos-d Água,3145455, MG
+Minas Gerais, Olhos-d'Água,3145455, MG
 Minas Gerais, Olímpio Noronha,3145505, MG
 Minas Gerais, Oliveira,3145604, MG
 Minas Gerais, Oliveira Fortes,3145703, MG
@@ -2830,7 +2830,7 @@ Minas Gerais, Piedade de Ponte Nova,3150208, MG
 Minas Gerais, Piedade do Rio Grande,3150307, MG
 Minas Gerais, Piedade dos Gerais,3150406, MG
 Minas Gerais, Pimenta,3150505, MG
-Minas Gerais, Pingo-d Água,3150539, MG
+Minas Gerais, Pingo-d'Água,3150539, MG
 Minas Gerais, Pintópolis,3150570, MG
 Minas Gerais, Piracema,3150604, MG
 Minas Gerais, Pirajuba,3150703, MG
@@ -3291,7 +3291,7 @@ São Paulo, Angatuba,3502200, SP
 São Paulo, Anhembi,3502309, SP
 São Paulo, Anhumas,3502408, SP
 São Paulo, Aparecida,3502507, SP
-São Paulo, Aparecida d Oeste,3502606, SP
+São Paulo, Aparecida d'Oeste,3502606, SP
 São Paulo, Apiaí,3502705, SP
 São Paulo, Araçariguama,3502754, SP
 São Paulo, Araçatuba,3502804, SP
@@ -3436,7 +3436,7 @@ São Paulo, Emilianópolis,3515129, SP
 São Paulo, Engenheiro Coelho,3515152, SP
 São Paulo, Espírito Santo do Pinhal,3515186, SP
 São Paulo, Espírito Santo do Turvo,3515194, SP
-São Paulo, Estrela d Oeste,3515202, SP
+São Paulo, Estrela d'Oeste,3515202, SP
 São Paulo, Estrela do Norte,3515301, SP
 São Paulo, Euclides da Cunha Paulista,3515350, SP
 São Paulo, Fartura,3515400, SP
@@ -3467,7 +3467,7 @@ São Paulo, Guapiara,3517604, SP
 São Paulo, Guará,3517703, SP
 São Paulo, Guaraçaí,3517802, SP
 São Paulo, Guaraci,3517901, SP
-São Paulo, Guarani d Oeste,3518008, SP
+São Paulo, Guarani d'Oeste,3518008, SP
 São Paulo, Guarantã,3518107, SP
 São Paulo, Guararapes,3518206, SP
 São Paulo, Guararema,3518305, SP
@@ -3659,7 +3659,7 @@ São Paulo, Ouro Verde,3534807, SP
 São Paulo, Pacaembu,3534906, SP
 São Paulo, Palestina,3535002, SP
 São Paulo, Palmares Paulista,3535101, SP
-São Paulo, Palmeira d Oeste,3535200, SP
+São Paulo, Palmeira d'Oeste,3535200, SP
 São Paulo, Palmital,3535309, SP
 São Paulo, Panorama,3535408, SP
 São Paulo, Paraguaçu Paulista,3535507, SP
@@ -3776,9 +3776,9 @@ São Paulo, Salto Grande,3545407, SP
 São Paulo, Sandovalina,3545506, SP
 São Paulo, Santa Adélia,3545605, SP
 São Paulo, Santa Albertina,3545704, SP
-São Paulo, Santa Bárbara d Oeste,3545803, SP
+São Paulo, Santa Bárbara d'Oeste,3545803, SP
 São Paulo, Santa Branca,3546009, SP
-São Paulo, Santa Clara d Oeste,3546108, SP
+São Paulo, Santa Clara d'Oeste,3546108, SP
 São Paulo, Santa Cruz da Conceição,3546207, SP
 São Paulo, Santa Cruz da Esperança,3546256, SP
 São Paulo, Santa Cruz das Palmeiras,3546306, SP
@@ -3792,7 +3792,7 @@ São Paulo, Santa Maria da Serra,3547007, SP
 São Paulo, Santa Mercedes,3547106, SP
 São Paulo, Santana da Ponte Pensa,3547205, SP
 São Paulo, Santana de Parnaíba,3547304, SP
-São Paulo, Santa Rita d Oeste,3547403, SP
+São Paulo, Santa Rita d'Oeste,3547403, SP
 São Paulo, Santa Rita do Passa Quatro,3547502, SP
 São Paulo, Santa Rosa de Viterbo,3547601, SP
 São Paulo, Santa Salete,3547650, SP
@@ -3814,7 +3814,7 @@ São Paulo, São Francisco,3549003, SP
 São Paulo, São João da Boa Vista,3549102, SP
 São Paulo, São João das Duas Pontes,3549201, SP
 São Paulo, São João de Iracema,3549250, SP
-São Paulo, São João do Pau d Alho,3549300, SP
+São Paulo, São João do Pau d'Alho,3549300, SP
 São Paulo, São Joaquim da Barra,3549409, SP
 São Paulo, São José da Bela Vista,3549508, SP
 São Paulo, São José do Barreiro,3549607, SP
@@ -4005,7 +4005,7 @@ Paraná, Curitiba,4106902, PR
 Paraná, Curiúva,4107009, PR
 Paraná, Diamante do Norte,4107108, PR
 Paraná, Diamante do Sul,4107124, PR
-Paraná, Diamante D Oeste,4107157, PR
+Paraná, Diamante d'Oeste,4107157, PR
 Paraná, Dois Vizinhos,4107207, PR
 Paraná, Douradina,4107256, PR
 Paraná, Doutor Camargo,4107306, PR
@@ -4066,7 +4066,7 @@ Paraná, Itaguajé,4110904, PR
 Paraná, Itaipulândia,4110953, PR
 Paraná, Itambaracá,4111001, PR
 Paraná, Itambé,4111100, PR
-Paraná, Itapejara d Oeste,4111209, PR
+Paraná, Itapejara d'Oeste,4111209, PR
 Paraná, Itaperuçu,4111258, PR
 Paraná, Itaúna do Sul,4111308, PR
 Paraná, Ivaí,4111407, PR
@@ -4170,7 +4170,7 @@ Paraná, Paulo Frontin,4118709, PR
 Paraná, Peabiru,4118808, PR
 Paraná, Perobal,4118857, PR
 Paraná, Pérola,4118907, PR
-Paraná, Pérola d Oeste,4119004, PR
+Paraná, Pérola d'Oeste,4119004, PR
 Paraná, Piên,4119103, PR
 Paraná, Pinhais,4119152, PR
 Paraná, Pinhalão,4119202, PR
@@ -4204,7 +4204,7 @@ Paraná, Quinta do Sol,4121109, PR
 Paraná, Quitandinha,4121208, PR
 Paraná, Ramilândia,4121257, PR
 Paraná, Rancho Alegre,4121307, PR
-Paraná, Rancho Alegre D Oeste,4121356, PR
+Paraná, Rancho Alegre d'Oeste,4121356, PR
 Paraná, Realeza,4121406, PR
 Paraná, Rebouças,4121505, PR
 Paraná, Renascença,4121604, PR
@@ -4252,7 +4252,7 @@ Paraná, São João,4124806, PR
 Paraná, São João do Caiuá,4124905, PR
 Paraná, São João do Ivaí,4125001, PR
 Paraná, São João do Triunfo,4125100, PR
-Paraná, São Jorge d Oeste,4125209, PR
+Paraná, São Jorge d'Oeste,4125209, PR
 Paraná, São Jorge do Ivaí,4125308, PR
 Paraná, São Jorge do Patrocínio,4125357, PR
 Paraná, São José da Boa Vista,4125407, PR
@@ -4410,8 +4410,8 @@ Santa Catarina, Guabiruba,4206306, SC
 Santa Catarina, Guaraciaba,4206405, SC
 Santa Catarina, Guaramirim,4206504, SC
 Santa Catarina, Guarujá do Sul,4206603, SC
-Santa Catarina, Guatambú,4206652, SC
-Santa Catarina, Herval d Oeste,4206702, SC
+Santa Catarina, Guatambú,42d06652, SC
+Santa Catarina, Herval d'Oeste,4206702, SC
 Santa Catarina, Ibiam,4206751, SC
 Santa Catarina, Ibicaré,4206801, SC
 Santa Catarina, Ibirama,4206900, SC
@@ -4897,7 +4897,7 @@ Rio Grande do Sul, Palmares do Sul,4313656, RS
 Rio Grande do Sul, Palmeira das Missões,4313706, RS
 Rio Grande do Sul, Palmitinho,4313805, RS
 Rio Grande do Sul, Panambi,4313904, RS
-Rio Grande do Sul, Pantano Grande,4313953, RS
+Rio Grande do Sul, Pântano Grande,4313953, RS
 Rio Grande do Sul, Paraí,4314001, RS
 Rio Grande do Sul, Paraíso do Sul,4314027, RS
 Rio Grande do Sul, Pareci Novo,4314035, RS
@@ -4967,7 +4967,7 @@ Rio Grande do Sul, Santa Maria,4316907, RS
 Rio Grande do Sul, Santa Maria do Herval,4316956, RS
 Rio Grande do Sul, Santa Margarida do Sul,4316972, RS
 Rio Grande do Sul, Santana da Boa Vista,4317004, RS
-Rio Grande do Sul, Sant Ana do Livramento,4317103, RS
+Rio Grande do Sul, Santana do Livramento,4317103, RS
 Rio Grande do Sul, Santa Rosa,4317202, RS
 Rio Grande do Sul, Santa Tereza,4317251, RS
 Rio Grande do Sul, Santa Vitória do Palmar,4317301, RS
@@ -5094,11 +5094,11 @@ Rio Grande do Sul, Vista Alegre,4323507, RS
 Rio Grande do Sul, Vista Alegre do Prata,4323606, RS
 Rio Grande do Sul, Vista Gaúcha,4323705, RS
 Rio Grande do Sul, Vitória das Missões,4323754, RS
-Rio Grande do Sul, Westfalia,4323770, RS
+Rio Grande do Sul, Westfália,4323770, RS
 Rio Grande do Sul, Xangri-lá,4323804, RS
 Mato Grosso do Sul, Água Clara,5000203, MS
 Mato Grosso do Sul, Alcinópolis,5000252, MS
-Mato Grosso do Sul, Amambai,5000609, MS
+Mato Grosso do Sul, Amambaí,5000609, MS
 Mato Grosso do Sul, Anastácio,5000708, MS
 Mato Grosso do Sul, Anaurilândia,5000807, MS
 Mato Grosso do Sul, Angélica,5000856, MS
@@ -5108,7 +5108,7 @@ Mato Grosso do Sul, Aquidauana,5001102, MS
 Mato Grosso do Sul, Aral Moreira,5001243, MS
 Mato Grosso do Sul, Bandeirantes,5001508, MS
 Mato Grosso do Sul, Bataguassu,5001904, MS
-Mato Grosso do Sul, Batayporã,5002001, MS
+Mato Grosso do Sul, Bataiporã,5002001, MS
 Mato Grosso do Sul, Bela Vista,5002100, MS
 Mato Grosso do Sul, Bodoquena,5002159, MS
 Mato Grosso do Sul, Bonito,5002209, MS
@@ -5209,7 +5209,7 @@ Mato Grosso, Colíder,5103205, MT
 Mato Grosso, Colniza,5103254, MT
 Mato Grosso, Comodoro,5103304, MT
 Mato Grosso, Confresa,5103353, MT
-Mato Grosso, Conquista D Oeste,5103361, MT
+Mato Grosso, Conquista d'Oeste,5103361, MT
 Mato Grosso, Cotriguaçu,5103379, MT
 Mato Grosso, Cuiabá,5103403, MT
 Mato Grosso, Curvelândia,5103437, MT
@@ -5217,10 +5217,10 @@ Mato Grosso, Denise,5103452, MT
 Mato Grosso, Diamantino,5103502, MT
 Mato Grosso, Dom Aquino,5103601, MT
 Mato Grosso, Feliz Natal,5103700, MT
-Mato Grosso, Figueirópolis D Oeste,5103809, MT
+Mato Grosso, Figueirópolis d'Oeste,5103809, MT
 Mato Grosso, Gaúcha do Norte,5103858, MT
 Mato Grosso, General Carneiro,5103908, MT
-Mato Grosso, Glória D Oeste,5103957, MT
+Mato Grosso, Glória d'Oeste,5103957, MT
 Mato Grosso, Guarantã do Norte,5104104, MT
 Mato Grosso, Guiratinga,5104203, MT
 Mato Grosso, Indiavaí,5104500, MT
@@ -5235,13 +5235,13 @@ Mato Grosso, Juara,5105101, MT
 Mato Grosso, Juína,5105150, MT
 Mato Grosso, Juruena,5105176, MT
 Mato Grosso, Juscimeira,5105200, MT
-Mato Grosso, Lambari D Oeste,5105234, MT
+Mato Grosso, Lambari d'Oeste,5105234, MT
 Mato Grosso, Lucas do Rio Verde,5105259, MT
-Mato Grosso, Luciara,5105309, MT
+Mato Grosso, Luciára,5105309, MT
 Mato Grosso, Vila Bela da Santíssima Trindade,5105507, MT
 Mato Grosso, Marcelândia,5105580, MT
 Mato Grosso, Matupá,5105606, MT
-Mato Grosso, Mirassol D Oeste,5105622, MT
+Mato Grosso, Mirassol d'Oeste,5105622, MT
 Mato Grosso, Nobres,5105903, MT
 Mato Grosso, Nortelândia,5106000, MT
 Mato Grosso, Nossa Senhora do Livramento,5106109, MT
@@ -5530,7 +5530,7 @@ Goiás, Santo Antônio de Goiás,5219738, GO
 Goiás, Santo Antônio do Descoberto,5219753, GO
 Goiás, São Domingos,5219803, GO
 Goiás, São Francisco de Goiás,5219902, GO
-Goiás, São João d Aliança,5220009, GO
+Goiás, São João d'Aliança,5220009, GO
 Goiás, São João da Paraúna,5220058, GO
 Goiás, São Luís de Montes Belos,5220108, GO
 Goiás, São Luíz do Norte,5220157, GO
@@ -5542,7 +5542,7 @@ Goiás, Senador Canedo,5220454, GO
 Goiás, Serranópolis,5220504, GO
 Goiás, Silvânia,5220603, GO
 Goiás, Simolândia,5220686, GO
-Goiás, Sítio d Abadia,5220702, GO
+Goiás, Sítio d'Abadia,5220702, GO
 Goiás, Taquaral de Goiás,5221007, GO
 Goiás, Teresina de Goiás,5221080, GO
 Goiás, Terezópolis de Goiás,5221197, GO
