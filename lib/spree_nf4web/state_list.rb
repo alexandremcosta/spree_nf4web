@@ -22,7 +22,7 @@ module Nf4web
     end
 
     def states
-      %w{paid balance_due credit_owed failed}
+      %w{paid balance_due credit_owed failed pending}
     end
   end
 end

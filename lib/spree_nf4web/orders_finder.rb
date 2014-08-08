@@ -6,10 +6,10 @@ module Nf4web
     end
 
     def orders
-      if @start_date && @end_date
-        Spree::Order.joins(:payments).where(spree_payments: {updated_at: (@start_date..@end_date)}).complete
-      elsif @order_number
-        Spree::Order.where(number: @order_number)
+      if start_date && end_date
+        Spree::Order.where(completed_at: (@start_date..@end_date))
+      elsif order_number
+        Spree::Order.where(number: order_number)
       else
         Spree::Order.none
       end
@@ -20,10 +20,10 @@ module Nf4web
 
     def fetch_filters(params)
       @start_date = @end_date = @order_number = nil
-      if params.has_key?(:start_date) && params.has_key?(:end_date)
+      if params[:start_date].present? && params[:end_date].present?
         @start_date = Date.parse(params[:start_date]) rescue nil
         @end_date = Date.parse(params[:end_date]) rescue nil
-      elsif params.has_key?(:order_number)
+      elsif params[:order_number].present?
         @order_number = params[:order_number]
       end
     end

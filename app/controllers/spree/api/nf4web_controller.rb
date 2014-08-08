@@ -24,7 +24,7 @@ module Spree
         {
           start_date: permitted_params_nfe[:para1],
           end_date: permitted_params_nfe[:para2],
-          order_number: permitted_params_nfe[:para3]
+          order_number: "R#{permitted_params_nfe[:para3]}"
         }
       end
       def permitted_params_nfe

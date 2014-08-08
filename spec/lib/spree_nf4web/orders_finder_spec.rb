@@ -32,7 +32,7 @@ module Nf4web
       end
       context 'when argument contains :order_number' do
         it 'should return orders' do
-          argument = {order_number: order.number}
+          argument = {start_date: nil, end_date: nil, order_number: order.number}
           expect( Nf4web::OrdersFinder.new(argument).orders ).to include(order)
         end
       end
