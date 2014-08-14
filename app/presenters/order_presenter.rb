@@ -12,8 +12,8 @@ class OrderPresenter < SimpleDelegator
   end
 
   def ibge_code
-    if city = BrazilianCity.find_by_name(city)
-      return city.ibge_code.to_s
+    if brazilian_city = BrazilianCity.find_by_name(city)
+      return brazilian_city.ibge_code.to_s
     else
       return ''
     end
