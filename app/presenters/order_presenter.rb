@@ -24,7 +24,7 @@ class OrderPresenter < SimpleDelegator
   end
 
   def adjustment_total_per_item
-    discount_total < 0 ? @adj ||= (discount_total.abs / nf4web_line_items.count).round(10) : ''
+    discount_total <= 0 ? @adj ||= (discount_total.abs / nf4web_line_items.count).round(10) : ''
   end
 
   private
