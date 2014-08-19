@@ -21,7 +21,7 @@ child :nf4web_line_items => :'Item_Object' do |li|
   node('uCom') { |li| li.product.unit }
   node('qCom') { |li| li.quantity }
   node('subst') { |li| li.product.subst }
-  node('vUnCom') { |li| li.price }
+  node('vUnCom') { |li| li.price + @order.item_tax }
   node('vFrete') { @order.ship_per_item }
   node('vDesc') { @order.adjustment_total_per_item }
 end

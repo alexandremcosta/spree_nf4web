@@ -20,14 +20,25 @@ class OrderPresenter < SimpleDelegator
   end
 
   def ship_per_item
-    @ship ||= (ship_total / nf4web_line_items.count).round(10)
+    @ship ||= (ship_total / item_count).round(10)
   end
 
   def adjustment_total_per_item
-    discount_total <= 0 ? @adj ||= (discount_total.abs / nf4web_line_items.count).round(10) : ''
+    discount_total <= 0 ? @adj ||= (discount_total.abs / item_count).round(10) : ''
+  end
+
+  def item_tax
+    @item_tax ||= (nfe_tax / item_count).round(10)
+  end
+
+  def nfe_tax
+    0
   end
 
   private
+  def item_count
+    nf4web_line_items.count
+  end
   def order
     __getobj__
   end
