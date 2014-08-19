@@ -20,11 +20,11 @@ class OrderPresenter < SimpleDelegator
   end
 
   def ship_per_item
-    ship_total / nf4web_line_items.count
+    @ship ||= (ship_total / nf4web_line_items.count).round(10)
   end
 
   def adjustment_total_per_item
-    discount_total.abs / nf4web_line_items.count
+    discount_total < 0 ? @adj ||= (discount_total.abs / nf4web_line_items.count).round(10) : ''
   end
 
   private

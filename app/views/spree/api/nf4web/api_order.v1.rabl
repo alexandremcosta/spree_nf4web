@@ -1,3 +1,4 @@
+# encoding: UTF-8
 object @order
 
 node('CPF') { |o| o.cpf }
@@ -14,8 +15,8 @@ node('fone') { |o| o.phone }
 node('email') { |o| o.email }
 
 child :nf4web_line_items => :'Item_Object' do |li|
-  node('cProd') { |li| li.product.name }
-  node('xProd') { |li| li.product.description }
+  node('cProd') { |li| li.product.name.first(60) }
+  node('xProd') { |li| li.product.description.first(120) }
   node('NCM') { |li| li.product.ncm }
   node('uCom') { |li| li.product.unit }
   node('qCom') { |li| li.quantity }
