@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_nf4web'
-  s.version     = '2.1.7'
+  s.version     = '2.1.71'
   s.summary     = 'Integration of nf4web.com.br and Spree Ecommerce'
   s.description = 'Nf4web is a brazilian service to issue invoices, according to the brazilian law, and Serasa regulations. This gem provides the required API to support the integration.'
   s.required_ruby_version = '>= 1.9.3'
