@@ -36,7 +36,12 @@ module Nf4web
           expect( Nf4web::OrdersFinder.new(argument).orders ).to include(order)
         end
       end
+      context 'when start date equals to end date' do
+        it 'should return orders' do
+          argument = {start_date: Date.today.to_s, end_date: Date.today.to_s}
+          expect( Nf4web::OrdersFinder.new(argument).orders ).to include(order)
+        end
+      end
     end
   end
 end
-
