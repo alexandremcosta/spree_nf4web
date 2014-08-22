@@ -15,8 +15,8 @@ node('fone') { |o| o.phone }
 node('email') { |o| o.email }
 
 child :nf4web_line_items => :'Item_Object' do |li|
-  node('cProd') { |li| li.product.name.first(60) }
-  node('xProd') { |li| li.product.description.first(120) }
+  node('cProd') { |li| li.product.nfe4web_name }
+  node('xProd') { |li| li.product.nfe4web_description }
   node('cfop') { |li| li.cfop }
   node('NCM') { |li| li.product.ncm }
   node('uCom') { |li| li.product.unit }

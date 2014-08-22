@@ -11,5 +11,13 @@ module Spree
     def subst
       property('subst') || 0
     end
+
+    def nfe4web_name
+      name.first(60)
+    end
+
+    def nfe4web_description
+      description.first(120)
+    end
   end
 end
