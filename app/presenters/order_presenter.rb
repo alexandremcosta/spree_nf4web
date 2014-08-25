@@ -39,6 +39,10 @@ class OrderPresenter < SimpleDelegator
     0
   end
 
+  def natop
+    nil
+  end
+
   private
   def item_count
     nf4web_line_items.count

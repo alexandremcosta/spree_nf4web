@@ -13,6 +13,7 @@ node('UF') { |o| o.state.abbr }
 node('CEP') { |o| o.zipcode }
 node('fone') { |o| o.phone }
 node('email') { |o| o.email }
+node('natop') { |o| o.natop }
 
 child :nf4web_line_items => :'Item_Object' do |li|
   node('cProd') { |li| li.product.nfe4web_name }
