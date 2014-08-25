@@ -8,11 +8,12 @@ module Spree
 
       def api_nfecommerce
         @orders = Nf4web::OrdersFinder.new(nfecommerce_params).orders
+        @orders = @orders.map{|o| OrderPresenter.new(o)}
         respond_with(@orders)
       end
 
       def api_order
-        @order = Spree::Order.find_by_number("R#{permitted_params_nfe[:para1]}")
+        @order = Spree::Order.find_by_number(permitted_params_nfe[:para1])
         @order = OrderPresenter.new(@order)
         respond_with(@order)
       end
@@ -24,7 +25,7 @@ module Spree
         {
           start_date: permitted_params_nfe[:para1],
           end_date: permitted_params_nfe[:para2],
-          order_number: "R#{permitted_params_nfe[:para3]}",
+          order_number: permitted_params_nfe[:para3],
           status: permitted_params_nfe[:para4]
         }
       end

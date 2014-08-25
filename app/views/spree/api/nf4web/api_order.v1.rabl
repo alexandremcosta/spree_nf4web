@@ -4,7 +4,7 @@ object @order
 node('CPF') { |o| o.cpf }
 node('xName') { |o| o.name }
 node('xLgr') { |o| o.address1 }
-node('nro') { |o| o.number }
+node('nro') { |o| o.address_number }
 node('xCpl') { |o| o.address2 }
 node('xBairro') { |o| o.neighborhood }
 node('cMun') { |o| o.ibge_code }

@@ -7,7 +7,7 @@ class OrderPresenter < SimpleDelegator
     order.billing_address.try(:cpf) || ''
   end
 
-  def number
+  def address_number
     address1.gsub(/[^0-9]/, '')
   end
 
