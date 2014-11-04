@@ -11,7 +11,7 @@ Installation
 Add spree_nf4web to your Gemfile:
 
 ```ruby
-gem 'spree_nf4web'
+gem 'spree_nf4web', git: 'git@github.com:alexandremcosta/spree_nf4web.git', branch: '2-1-stable'
 ```
 
 Bundle your dependencies and run the installation generator:
