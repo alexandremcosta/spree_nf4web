@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   #s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
   s.require_path = 'lib'
   s.requirements << 'none'
-  spree_version = '~> 2.3.0'
+  spree_version = '~> 2.4.0.beta'
   s.add_dependency 'spree_core', spree_version
 
   s.add_development_dependency 'database_cleaner'
